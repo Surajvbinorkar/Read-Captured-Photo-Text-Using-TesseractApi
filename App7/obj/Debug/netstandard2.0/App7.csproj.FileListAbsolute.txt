@@ -1,0 +1,12 @@
+C:\Users\Suraj\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.deps.json
+C:\Users\Suraj\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.dll
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.csprojAssemblyReference.cache
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.pdb
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.dll
+C:\Users\Suraj\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.pdb
